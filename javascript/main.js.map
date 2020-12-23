@@ -1,0 +1,1 @@
+{"version":3,"file":"main.js","sourceRoot":"","sources":["../typescript/helper.ts","../typescript/main.ts"],"names":[],"mappings":"AAAA,IAAO,QAAQ,CAId;AAJD,WAAO,QAAQ;IACX;QAAA;QAEA,CAAC;QADU,iBAAQ,GAAW,SAAS,CAAC;QACxC,eAAC;KAAA,AAFD,IAEC;IAFY,iBAAQ,WAEpB,CAAA;AACL,CAAC,EAJM,QAAQ,KAAR,QAAQ,QAId;ACHD,OAAO,CAAC,GAAG,CAAC,QAAQ,CAAC,QAAQ,CAAC,QAAQ,GAAG,QAAQ,CAAC,CAAA"}
